@@ -10,12 +10,17 @@ https://github.com/purvil-patel/CMPE-255-assignment2/assets/67355397/c2979255-e8
 
 
 
+
+
+
+
+
 **Task 2: Use pycaret to do low code data mining**
 
 **Binary Classification :** https://colab.research.google.com/drive/1zJ1u8huNho-IaoEIWD8DGr0fKcRAlUCp?authuser=1
 ​
-Also created the gradeio for the binary Classification
 
+Also created the gradeio for the binary Classification
 
 
 https://github.com/purvil-patel/CMPE-255-assignment2/assets/67355397/e87d4eeb-71b3-44d4-8971-c7930c43bc47
