@@ -17,7 +17,7 @@ https://github.com/purvil-patel/CMPE-255-assignment2/assets/67355397/c2979255-e8
 
 **Task 2: Use pycaret to do low code data mining**
 
-**Binary Classification :** https://colab.research.google.com/drive/1zJ1u8huNho-IaoEIWD8DGr0fKcRAlUCp?authuser=1
+**Binary Classification :** https://colab.research.google.com/drive/1zJ1u8huNho-IaoEIWD8DGr0fKcRAlUCp?usp=sharing
 ​
 
 Also created the gradeio for the binary Classification
@@ -28,9 +28,9 @@ https://github.com/purvil-patel/CMPE-255-assignment2/assets/67355397/e87d4eeb-71
 
 
 
-**Multiclass Classification :** https://colab.research.google.com/drive/1p4DArgFskteq8r7YAjyCSpTekAh8BlSQ?authuser=1
+**Multiclass Classification :** https://colab.research.google.com/drive/1p4DArgFskteq8r7YAjyCSpTekAh8BlSQ?usp=sharing
 
-**Regression :** https://colab.research.google.com/drive/1RdcqBP4lwJ5jqMxrfwTRcIriw9NFXEYS?authuser=1
+**Regression :** https://colab.research.google.com/drive/1RdcqBP4lwJ5jqMxrfwTRcIriw9NFXEYS?usp=sharing
 
 
 Also created the gradeio for the regression
@@ -41,13 +41,13 @@ https://github.com/purvil-patel/CMPE-255-assignment2/assets/67355397/f94e7b41-70
 
 
 
-**Clustering :** https://colab.research.google.com/drive/1syJ3L6YPi6Vg8IdH6fwEAkYQ8-qATARP?authuser=1
+**Clustering :** https://colab.research.google.com/drive/1syJ3L6YPi6Vg8IdH6fwEAkYQ8-qATARP?usp=sharing
 
-**Anomaly Detection :** https://colab.research.google.com/drive/1TF8DxvJ6sxNGwhc0naRIlFWVv_J2JF6R?authuser=1
+**Anomaly Detection :** https://colab.research.google.com/drive/1TF8DxvJ6sxNGwhc0naRIlFWVv_J2JF6R?usp=sharing
 
-**Time Series Forecasting - without Exogenous :** https://colab.research.google.com/drive/1BryYDTkwfcBro2PzjWPMr7LsnKRaTuyH?authuser=1
+**Time Series Forecasting - without Exogenous :** https://colab.research.google.com/drive/1BryYDTkwfcBro2PzjWPMr7LsnKRaTuyH?usp=sharing
 
-**Time Series Forecasting - with Exogenous :** https://colab.research.google.com/drive/1IS7eSLL-jWgTD05YyVssaIFUF-WK1mPU?authuser=1
+**Time Series Forecasting - with Exogenous :** https://colab.research.google.com/drive/1IS7eSLL-jWgTD05YyVssaIFUF-WK1mPU?usp=sharing
 
 **Association Rules Mining :** There is no module related to association in the pycaret
 
